@@ -1,0 +1,8 @@
+add_subdirectory(st7735)
+add_subdirectory(st7789)
+add_subdirectory(ili9341)
+add_subdirectory(gfx)
+add_subdirectory(out)
+add_subdirectory(porting)
+#add_subdirectory(custom)
+#add_subdirectory(generated)
